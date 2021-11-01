@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micdic
-- 👀 I’m interested in Machine Learning, Mobile Computing
+- 👀 I’m interested in Machine Learning, Mobile Computing, OOP
 - 📫 How to reach me micheledicapua@gmail.com
 
 <!---
